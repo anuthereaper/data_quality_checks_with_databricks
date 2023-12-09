@@ -1,14 +1,10 @@
-# data_quality_checks_with_databricks
-Data quality checking frame work for Pyspark in Databricks based on Great Expectations framework
-
-
 ---
 page_type: sample
 languages:
 - pyspark
 products:
 - Databricks
-description: "Data Quality check framework for databricks based on Great Expectations"
+description: "Data quality checking frame work for Pyspark in Databricks based on Great Expectations framework"
 ---
 
 # Azure SQL Database CI/CD Pipeline with GitHub Actions
