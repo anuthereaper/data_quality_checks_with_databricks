@@ -9,7 +9,6 @@ languages:
 products:
 - Databricks
 description: "Data Quality check framework for databricks based on Great Expectations"
-urlFragment: ""
 ---
 
 # Azure SQL Database CI/CD Pipeline with GitHub Actions
